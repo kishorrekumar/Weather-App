@@ -23,7 +23,7 @@ A simple and responsive weather forecasting app built with **React** that uses t
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/kishorrekumar/weather-app.git
+https://github.com/kishorrekumar/Weather-App.git
 cd weather-app
 npm install
 npm run dev
